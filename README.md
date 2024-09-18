@@ -1,7 +1,5 @@
 
 <html>
-   
-</head>
 <body>
 <h1>La Computación</h1>
 <h1>Katerin Maite Herrera Montes</h1>
