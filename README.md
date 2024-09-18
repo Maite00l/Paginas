@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <title>La Computación</title>
+   
 </head>
 <body>
 <h1>La Computación</h1>
