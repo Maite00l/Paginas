@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h1>La Computación</h1>
+<h1>La Computación1</h1>
 <h1>Katerin Maite Herrera Montes</h1>
     <p><strong>Grado:</strong> Quinto perito contador</p>
     <p><strong>Cátedra:</strong> Computación</p>
